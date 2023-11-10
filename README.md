@@ -5,7 +5,7 @@
 Want to learn more? We’re running several masterclasses over November, each containing three webinars that you can join individually or as a set. They’re repeating on different days to ensure you have maximum opportunity to join the sessions that are important to you. Join all three on one day or stagger them across the weeks – whatever works for you.
 
 ## Sign up [HERE](https://bit.ly/AzureArcWithQANov23). 
-Attendees will also be given 7 days of free access to QA Cloud Academy, gaining further hands-on-practical labs and recommended Learning aligned to Hybrid Cloud Management.
+Attendees will also be given 7 days of free access to [QA Cloud Academy](https://bit.ly/CloudAcademyByQA), gaining further hands-on-practical labs and recommended Learning aligned to Hybrid Cloud Management.
 
 Webinar Dates and Times
 
