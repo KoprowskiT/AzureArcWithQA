@@ -48,7 +48,7 @@ Time: **15:00 - 17:00 GMT** | Location: Attend from anywhere (virtual)
 
 *Venture into the advanced realms of Microsoft Azure Arc in this expert-led webinar. After recapping key takeaways from the initial sessions, delve into Infrastructure as Code with Azure Arc, equipping yourself with the skills to deploy and manage resources seamlessly. Discover monitoring and analytics capabilities, alongside vital information on ensuring business continuity with Azure Arc. Stay updated with Azure Arc's future roadmap and how to get involved more deeply with the platform. This advanced session is perfect for those ready to master Azure Arc's complexities and potentials, capped with a dedicated Q&A time.* 
 
-### Microsoft Azure Arc in a Day Summary
+### Microsoft Azure Arc in a Day
 Duration: 1 day | Level: **From Zero To Hero**
 
 Date: Tuesday 28th November 2023
