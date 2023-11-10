@@ -20,7 +20,7 @@ Dates:
 
 Time: **09:00 - 11:00 GMT** | Location: Attend from anywhere (virtual)
 
-*Begin your journey with Microsoft Azure Arc in this comprehensive beginner's webinar. Explore the core concepts of Azure Arc and understand its significance in hybrid and multi-cloud environments. Dive deep into installation and configuration essentials, from licensing requirements to connecting on-premises servers. Unfold the vast array of Azure Arc services, including Arc Jump Start and its various flavours tailored for IT Pros, DevOps, and DataOps. Conclude with a focus on basic use cases, from resource management to governance. Join us for a captivating 2-hour session, followed by a dedicated Q&A segment to address your queries.* 
+*Begin your journey with Microsoft Azure Arc in this comprehensive beginner's webinar. Explore the core concepts of Azure Arc and understand its significance in hybrid and multi-cloud environments. Dive deep into installation and configuration essentials, from licensing requirements to connecting on-premises servers. Unfold the vast array of Azure Arc services, including Arc Jump Start and its various flavors tailored for IT Pros, DevOps, and DataOps. Conclude with a focus on basic use cases, from resource management to governance. Join us for a captivating 2-hour session and a dedicated Q&A segment to address your queries.* 
 
 ### Intermediate-Level Practices with Microsoft Azure Arc
 Duration: 120 minutes | Level: **Intermediate**
@@ -46,7 +46,7 @@ Dates:
 
 Time: **15:00 - 17:00 GMT** | Location: Attend from anywhere (virtual)
 
-*Venture into the advanced realms of Microsoft Azure Arc in this expert-led webinar. After recapping key takeaways from the initial sessions, delve into Infrastructure as Code with Azure Arc, equipping yourself with the skills to deploy and manage resources seamlessly. Discover monitoring and analytics capabilities, alongside vital information on ensuring business continuity with Azure Arc. Stay updated with Azure Arc's future roadmap and how to get involved more deeply with the platform. This advanced session is perfect for those ready to master Azure Arc's complexities and potentials, capped with a dedicated Q&A time.* 
+*Venture into the advanced realms of Microsoft Azure Arc in this expert-led webinar. After recapping key takeaways from the initial sessions, delve into Infrastructure as Code with Azure Arc, equipping yourself with the skills to deploy and manage resources seamlessly. Discover monitoring and analytics capabilities alongside vital information on ensuring business continuity with Azure Arc. Stay updated with Azure Arc's future roadmap and how to get involved more deeply with the platform. This advanced session is perfect for those ready to master Azure Arc's complexities and potentials, capped with a dedicated Q&A time.* 
 
 ### Microsoft Azure Arc in a Day
 Duration: 1 day | Level: **From Zero To Hero**
